@@ -7,7 +7,7 @@ const NavBar = () => {
     <header  className='flex flex-row bg-sky-700  items-center justify-around mb-px border-solid border-2 border-black'>
 
       <Link to="/">
-      <img src='src\assets\logo.jpg' alt="" className='w-20' />
+      <img src='../img/logo.jpg' alt="" className='w-20' />
       </Link>
       <nav >
         <ul>
