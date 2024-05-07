@@ -20,7 +20,7 @@ Se utilizo almacenamiento online con Firebase para simular el stock y detalles d
 - Ver el detalle de cada producto
 - Filtrar productos por categoria
 - Ver el carrito con los productos cargados con su cantidad y precio
-- Confirmar la compra con una devolucipon de un ID de compra
+- Confirmar la compra con una devolución de un ID de compra
 
 ### Instalación
 
